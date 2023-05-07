@@ -2,6 +2,8 @@
 
 Just learning and exploring the ink! smart contracts ecosystem.
 
+Referring: https://www.youtube.com/watch?v=JDua1vwBR5I
+
 ## Notes
 
 ### Some commands
