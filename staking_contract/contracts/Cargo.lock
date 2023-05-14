@@ -605,16 +605,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "2dffe52ecf27772e601905b7522cb4ef790d2cc203488bbd0e2fe85fcb74566d"
 
 [[package]]
-name = "my_psp22"
-version = "1.0.0"
-dependencies = [
- "ink",
- "openbrush",
- "parity-scale-codec",
- "scale-info",
-]
-
-[[package]]
 name = "num-traits"
 version = "0.2.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -982,6 +972,16 @@ checksum = "75872d278a8f37ef87fa0ddbda7802605cb18344497949862c0d4dcb291eba60"
 dependencies = [
  "digest 0.10.6",
  "keccak",
+]
+
+[[package]]
+name = "staking_contract"
+version = "1.0.0"
+dependencies = [
+ "ink",
+ "openbrush",
+ "parity-scale-codec",
+ "scale-info",
 ]
 
 [[package]]
